@@ -11,7 +11,7 @@
 	"private": true,
 	"type": "module",
 	"scripts": {
-		"start": "nodestart.js"
+		"start": "node /start.js"
 	},
 	"engines": {
 		"npm": ">=7.0.0",
